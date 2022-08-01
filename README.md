@@ -1,6 +1,6 @@
 ## Summary 
 
-Thank you for your interest in Vira's data science work!  
+Thank you for your interest in Vira Health's data science work!  
 
 This repository contains a jupyter notebook with instructions and data for a short task which will give you an insight into some of what Vira Health is working on.   
 
